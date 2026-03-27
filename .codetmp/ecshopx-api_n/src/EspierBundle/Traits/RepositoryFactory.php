@@ -1,0 +1,16 @@
+<?php
+
+namespace EspierBundle\Traits;
+
+trait RepositoryFactory
+{
+    public static function instance($manager = 'default')
+    {
+        if (is_null(self::$entityClass)) {
+            throw new \Exception('entity class not null');
+        }
+        $manager = app('registry')->getManager($manager);
+        $classMetadata = $manager->getClassMetadata(self::$entityClass);
+        return new self($manager, $classMetadata);
+    }
+}

@@ -1,0 +1,12 @@
+<?php
+
+namespace MembersBundle\Interfaces;
+
+interface SubscribeInterface
+{
+    public function create(array $subInfo);
+
+    public function delete($filter);
+
+    public function getList($filter);
+}
