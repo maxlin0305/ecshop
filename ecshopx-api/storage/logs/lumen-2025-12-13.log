@@ -1,0 +1,351 @@
+[2025-12-13 09:34:20] production.DEBUG: thirdapp：array (
+  'email' => 'sean.li@smtengo.com',
+  'mobile' => '0988143663',
+  'memberId' => '10',
+  'timestamp' => '1765589653707',
+  'appCode' => 'engo',
+  'sign' => '35ECCE053258A789ED1F6CAAFF827ECD',
+)  
+[2025-12-13 09:34:20] production.DEBUG: thirdapp-1：array (
+  'user_id' => '17',
+  'company_id' => '1',
+  'grade_id' => '1',
+  'mobile' => '0988143663',
+  'email' => 'sean.li@smtengo.com',
+  'region_mobile' => '',
+  'mobile_country_code' => '',
+  'user_card_code' => '0A85820308AD',
+  'offline_card_code' => NULL,
+  'inviter_id' => '0',
+  'app_member_id' => '10',
+  'source_from' => 'openapi',
+  'source_id' => '0',
+  'monitor_id' => '0',
+  'latest_source_id' => '0',
+  'latest_monitor_id' => '0',
+  'authorizer_appid' => '',
+  'use_point' => false,
+  'wxa_appid' => '',
+  'alipay_appid' => '',
+  'created' => 1707984553,
+  'updated' => 1707984553,
+  'disabled' => false,
+  'remarks' => NULL,
+  'third_data' => NULL,
+)  
+[2025-12-13 09:34:20] production.DEBUG: request_url=>https://tinside.smtengo.com/v1/api/member/info/10  
+[2025-12-13 09:34:20] production.DEBUG: header_param=> {"Content-Type":"application/json;charset=utf-8","Accept":"application/json","appKey":"aLjyMhsaMmKsChOEOFccqjTHFUMXzJSw","appSecret":"fzyCEryeGSalydJakjRDduHGIOwRcAqvImOnZZUKXPbFbXCIMGeLLuCVErsxkIhL"} 
+[2025-12-13 09:34:20] production.DEBUG: 自动更新用户信息错误file_get_contents(https://tinside.smtengo.com/v1/api/member/info/10): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+1072  
+[2025-12-13 09:34:20] production.DEBUG: thirdapp：array (
+  'email' => 'sean.li@smtengo.com',
+  'mobile' => '0988143663',
+  'memberId' => '10',
+  'timestamp' => '1765589653707',
+  'appCode' => 'engo',
+  'sign' => '35ECCE053258A789ED1F6CAAFF827ECD',
+)  
+[2025-12-13 09:34:20] production.DEBUG: thirdapp-1：array (
+  'user_id' => '17',
+  'company_id' => '1',
+  'grade_id' => '1',
+  'mobile' => '0988143663',
+  'email' => 'sean.li@smtengo.com',
+  'region_mobile' => '',
+  'mobile_country_code' => '',
+  'user_card_code' => '0A85820308AD',
+  'offline_card_code' => NULL,
+  'inviter_id' => '0',
+  'app_member_id' => '10',
+  'source_from' => 'openapi',
+  'source_id' => '0',
+  'monitor_id' => '0',
+  'latest_source_id' => '0',
+  'latest_monitor_id' => '0',
+  'authorizer_appid' => '',
+  'use_point' => false,
+  'wxa_appid' => '',
+  'alipay_appid' => '',
+  'created' => 1707984553,
+  'updated' => 1707984553,
+  'disabled' => false,
+  'remarks' => NULL,
+  'third_data' => NULL,
+)  
+[2025-12-13 09:34:20] production.DEBUG: request_url=>https://tinside.smtengo.com/v1/api/member/info/10  
+[2025-12-13 09:34:20] production.DEBUG: header_param=> {"Content-Type":"application/json;charset=utf-8","Accept":"application/json","appKey":"aLjyMhsaMmKsChOEOFccqjTHFUMXzJSw","appSecret":"fzyCEryeGSalydJakjRDduHGIOwRcAqvImOnZZUKXPbFbXCIMGeLLuCVErsxkIhL"} 
+[2025-12-13 09:34:20] production.DEBUG: 自动更新用户信息错误file_get_contents(https://tinside.smtengo.com/v1/api/member/info/10): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+1072  
+[2025-12-13 09:34:21] production.DEBUG: thirdapp：array (
+  'email' => 'sean.li@smtengo.com',
+  'mobile' => '0988143663',
+  'memberId' => '10',
+  'timestamp' => '1765589653707',
+  'appCode' => 'engo',
+  'sign' => '35ECCE053258A789ED1F6CAAFF827ECD',
+)  
+[2025-12-13 09:34:21] production.DEBUG: thirdapp：array (
+  'email' => 'sean.li@smtengo.com',
+  'mobile' => '0988143663',
+  'memberId' => '10',
+  'timestamp' => '1765589653707',
+  'appCode' => 'engo',
+  'sign' => '35ECCE053258A789ED1F6CAAFF827ECD',
+)  
+[2025-12-13 09:34:21] production.DEBUG: thirdapp-1：array (
+  'user_id' => '17',
+  'company_id' => '1',
+  'grade_id' => '1',
+  'mobile' => '0988143663',
+  'email' => 'sean.li@smtengo.com',
+  'region_mobile' => '',
+  'mobile_country_code' => '',
+  'user_card_code' => '0A85820308AD',
+  'offline_card_code' => NULL,
+  'inviter_id' => '0',
+  'app_member_id' => '10',
+  'source_from' => 'openapi',
+  'source_id' => '0',
+  'monitor_id' => '0',
+  'latest_source_id' => '0',
+  'latest_monitor_id' => '0',
+  'authorizer_appid' => '',
+  'use_point' => false,
+  'wxa_appid' => '',
+  'alipay_appid' => '',
+  'created' => 1707984553,
+  'updated' => 1707984553,
+  'disabled' => false,
+  'remarks' => NULL,
+  'third_data' => NULL,
+)  
+[2025-12-13 09:34:21] production.DEBUG: request_url=>https://tinside.smtengo.com/v1/api/member/info/10  
+[2025-12-13 09:34:21] production.DEBUG: header_param=> {"Content-Type":"application/json;charset=utf-8","Accept":"application/json","appKey":"aLjyMhsaMmKsChOEOFccqjTHFUMXzJSw","appSecret":"fzyCEryeGSalydJakjRDduHGIOwRcAqvImOnZZUKXPbFbXCIMGeLLuCVErsxkIhL"} 
+[2025-12-13 09:34:21] production.DEBUG: thirdapp-1：array (
+  'user_id' => '17',
+  'company_id' => '1',
+  'grade_id' => '1',
+  'mobile' => '0988143663',
+  'email' => 'sean.li@smtengo.com',
+  'region_mobile' => '',
+  'mobile_country_code' => '',
+  'user_card_code' => '0A85820308AD',
+  'offline_card_code' => NULL,
+  'inviter_id' => '0',
+  'app_member_id' => '10',
+  'source_from' => 'openapi',
+  'source_id' => '0',
+  'monitor_id' => '0',
+  'latest_source_id' => '0',
+  'latest_monitor_id' => '0',
+  'authorizer_appid' => '',
+  'use_point' => false,
+  'wxa_appid' => '',
+  'alipay_appid' => '',
+  'created' => 1707984553,
+  'updated' => 1707984553,
+  'disabled' => false,
+  'remarks' => NULL,
+  'third_data' => NULL,
+)  
+[2025-12-13 09:34:21] production.DEBUG: request_url=>https://tinside.smtengo.com/v1/api/member/info/10  
+[2025-12-13 09:34:21] production.DEBUG: header_param=> {"Content-Type":"application/json;charset=utf-8","Accept":"application/json","appKey":"aLjyMhsaMmKsChOEOFccqjTHFUMXzJSw","appSecret":"fzyCEryeGSalydJakjRDduHGIOwRcAqvImOnZZUKXPbFbXCIMGeLLuCVErsxkIhL"} 
+[2025-12-13 09:34:21] production.DEBUG: 自动更新用户信息错误file_get_contents(https://tinside.smtengo.com/v1/api/member/info/10): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+1072  
+[2025-12-13 09:34:21] production.DEBUG: 自动更新用户信息错误file_get_contents(https://tinside.smtengo.com/v1/api/member/info/10): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+1072  
+[2025-12-13 09:34:21] production.DEBUG: thirdapp：array (
+  'email' => 'sean.li@smtengo.com',
+  'mobile' => '0988143663',
+  'memberId' => '10',
+  'timestamp' => '1765589653707',
+  'appCode' => 'engo',
+  'sign' => '35ECCE053258A789ED1F6CAAFF827ECD',
+)  
+[2025-12-13 09:34:21] production.DEBUG: thirdapp-1：array (
+  'user_id' => '17',
+  'company_id' => '1',
+  'grade_id' => '1',
+  'mobile' => '0988143663',
+  'email' => 'sean.li@smtengo.com',
+  'region_mobile' => '',
+  'mobile_country_code' => '',
+  'user_card_code' => '0A85820308AD',
+  'offline_card_code' => NULL,
+  'inviter_id' => '0',
+  'app_member_id' => '10',
+  'source_from' => 'openapi',
+  'source_id' => '0',
+  'monitor_id' => '0',
+  'latest_source_id' => '0',
+  'latest_monitor_id' => '0',
+  'authorizer_appid' => '',
+  'use_point' => false,
+  'wxa_appid' => '',
+  'alipay_appid' => '',
+  'created' => 1707984553,
+  'updated' => 1707984553,
+  'disabled' => false,
+  'remarks' => NULL,
+  'third_data' => NULL,
+)  
+[2025-12-13 09:34:21] production.DEBUG: request_url=>https://tinside.smtengo.com/v1/api/member/info/10  
+[2025-12-13 09:34:21] production.DEBUG: header_param=> {"Content-Type":"application/json;charset=utf-8","Accept":"application/json","appKey":"aLjyMhsaMmKsChOEOFccqjTHFUMXzJSw","appSecret":"fzyCEryeGSalydJakjRDduHGIOwRcAqvImOnZZUKXPbFbXCIMGeLLuCVErsxkIhL"} 
+[2025-12-13 09:34:21] production.DEBUG: 自动更新用户信息错误file_get_contents(https://tinside.smtengo.com/v1/api/member/info/10): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+1072  
+[2025-12-13 09:34:21] production.DEBUG: thirdapp：array (
+  'email' => 'sean.li@smtengo.com',
+  'mobile' => '0988143663',
+  'memberId' => '10',
+  'timestamp' => '1765589653707',
+  'appCode' => 'engo',
+  'sign' => '35ECCE053258A789ED1F6CAAFF827ECD',
+)  
+[2025-12-13 09:34:21] production.DEBUG: thirdapp-1：array (
+  'user_id' => '17',
+  'company_id' => '1',
+  'grade_id' => '1',
+  'mobile' => '0988143663',
+  'email' => 'sean.li@smtengo.com',
+  'region_mobile' => '',
+  'mobile_country_code' => '',
+  'user_card_code' => '0A85820308AD',
+  'offline_card_code' => NULL,
+  'inviter_id' => '0',
+  'app_member_id' => '10',
+  'source_from' => 'openapi',
+  'source_id' => '0',
+  'monitor_id' => '0',
+  'latest_source_id' => '0',
+  'latest_monitor_id' => '0',
+  'authorizer_appid' => '',
+  'use_point' => false,
+  'wxa_appid' => '',
+  'alipay_appid' => '',
+  'created' => 1707984553,
+  'updated' => 1707984553,
+  'disabled' => false,
+  'remarks' => NULL,
+  'third_data' => NULL,
+)  
+[2025-12-13 09:34:21] production.DEBUG: request_url=>https://tinside.smtengo.com/v1/api/member/info/10  
+[2025-12-13 09:34:21] production.DEBUG: header_param=> {"Content-Type":"application/json;charset=utf-8","Accept":"application/json","appKey":"aLjyMhsaMmKsChOEOFccqjTHFUMXzJSw","appSecret":"fzyCEryeGSalydJakjRDduHGIOwRcAqvImOnZZUKXPbFbXCIMGeLLuCVErsxkIhL"} 
+[2025-12-13 09:34:21] production.DEBUG: 自动更新用户信息错误file_get_contents(https://tinside.smtengo.com/v1/api/member/info/10): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+1072  
+[2025-12-13 09:34:21] production.DEBUG: thirdapp：array (
+  'email' => 'sean.li@smtengo.com',
+  'mobile' => '0988143663',
+  'memberId' => '10',
+  'timestamp' => '1765589653707',
+  'appCode' => 'engo',
+  'sign' => '35ECCE053258A789ED1F6CAAFF827ECD',
+)  
+[2025-12-13 09:34:21] production.DEBUG: thirdapp-1：array (
+  'user_id' => '17',
+  'company_id' => '1',
+  'grade_id' => '1',
+  'mobile' => '0988143663',
+  'email' => 'sean.li@smtengo.com',
+  'region_mobile' => '',
+  'mobile_country_code' => '',
+  'user_card_code' => '0A85820308AD',
+  'offline_card_code' => NULL,
+  'inviter_id' => '0',
+  'app_member_id' => '10',
+  'source_from' => 'openapi',
+  'source_id' => '0',
+  'monitor_id' => '0',
+  'latest_source_id' => '0',
+  'latest_monitor_id' => '0',
+  'authorizer_appid' => '',
+  'use_point' => false,
+  'wxa_appid' => '',
+  'alipay_appid' => '',
+  'created' => 1707984553,
+  'updated' => 1707984553,
+  'disabled' => false,
+  'remarks' => NULL,
+  'third_data' => NULL,
+)  
+[2025-12-13 09:34:21] production.DEBUG: request_url=>https://tinside.smtengo.com/v1/api/member/info/10  
+[2025-12-13 09:34:21] production.DEBUG: header_param=> {"Content-Type":"application/json;charset=utf-8","Accept":"application/json","appKey":"aLjyMhsaMmKsChOEOFccqjTHFUMXzJSw","appSecret":"fzyCEryeGSalydJakjRDduHGIOwRcAqvImOnZZUKXPbFbXCIMGeLLuCVErsxkIhL"} 
+[2025-12-13 09:34:21] production.DEBUG: thirdapp：array (
+  'email' => 'sean.li@smtengo.com',
+  'mobile' => '0988143663',
+  'memberId' => '10',
+  'timestamp' => '1765589653707',
+  'appCode' => 'engo',
+  'sign' => '35ECCE053258A789ED1F6CAAFF827ECD',
+)  
+[2025-12-13 09:34:21] production.DEBUG: thirdapp-1：array (
+  'user_id' => '17',
+  'company_id' => '1',
+  'grade_id' => '1',
+  'mobile' => '0988143663',
+  'email' => 'sean.li@smtengo.com',
+  'region_mobile' => '',
+  'mobile_country_code' => '',
+  'user_card_code' => '0A85820308AD',
+  'offline_card_code' => NULL,
+  'inviter_id' => '0',
+  'app_member_id' => '10',
+  'source_from' => 'openapi',
+  'source_id' => '0',
+  'monitor_id' => '0',
+  'latest_source_id' => '0',
+  'latest_monitor_id' => '0',
+  'authorizer_appid' => '',
+  'use_point' => false,
+  'wxa_appid' => '',
+  'alipay_appid' => '',
+  'created' => 1707984553,
+  'updated' => 1707984553,
+  'disabled' => false,
+  'remarks' => NULL,
+  'third_data' => NULL,
+)  
+[2025-12-13 09:34:21] production.DEBUG: request_url=>https://tinside.smtengo.com/v1/api/member/info/10  
+[2025-12-13 09:34:21] production.DEBUG: header_param=> {"Content-Type":"application/json;charset=utf-8","Accept":"application/json","appKey":"aLjyMhsaMmKsChOEOFccqjTHFUMXzJSw","appSecret":"fzyCEryeGSalydJakjRDduHGIOwRcAqvImOnZZUKXPbFbXCIMGeLLuCVErsxkIhL"} 
+[2025-12-13 09:34:21] production.DEBUG: 自动更新用户信息错误file_get_contents(https://tinside.smtengo.com/v1/api/member/info/10): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+1072  
+[2025-12-13 09:34:21] production.DEBUG: 自动更新用户信息错误file_get_contents(https://tinside.smtengo.com/v1/api/member/info/10): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+1072  
+[2025-12-13 09:34:21] production.DEBUG: thirdapp：array (
+  'email' => 'sean.li@smtengo.com',
+  'mobile' => '0988143663',
+  'memberId' => '10',
+  'timestamp' => '1765589653707',
+  'appCode' => 'engo',
+  'sign' => '35ECCE053258A789ED1F6CAAFF827ECD',
+)  
+[2025-12-13 09:34:21] production.DEBUG: thirdapp-1：array (
+  'user_id' => '17',
+  'company_id' => '1',
+  'grade_id' => '1',
+  'mobile' => '0988143663',
+  'email' => 'sean.li@smtengo.com',
+  'region_mobile' => '',
+  'mobile_country_code' => '',
+  'user_card_code' => '0A85820308AD',
+  'offline_card_code' => NULL,
+  'inviter_id' => '0',
+  'app_member_id' => '10',
+  'source_from' => 'openapi',
+  'source_id' => '0',
+  'monitor_id' => '0',
+  'latest_source_id' => '0',
+  'latest_monitor_id' => '0',
+  'authorizer_appid' => '',
+  'use_point' => false,
+  'wxa_appid' => '',
+  'alipay_appid' => '',
+  'created' => 1707984553,
+  'updated' => 1707984553,
+  'disabled' => false,
+  'remarks' => NULL,
+  'third_data' => NULL,
+)  
+[2025-12-13 09:34:21] production.DEBUG: request_url=>https://tinside.smtengo.com/v1/api/member/info/10  
+[2025-12-13 09:34:21] production.DEBUG: header_param=> {"Content-Type":"application/json;charset=utf-8","Accept":"application/json","appKey":"aLjyMhsaMmKsChOEOFccqjTHFUMXzJSw","appSecret":"fzyCEryeGSalydJakjRDduHGIOwRcAqvImOnZZUKXPbFbXCIMGeLLuCVErsxkIhL"} 
+[2025-12-13 09:34:21] production.DEBUG: 自动更新用户信息错误file_get_contents(https://tinside.smtengo.com/v1/api/member/info/10): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+1072  

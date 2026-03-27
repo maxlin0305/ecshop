@@ -1,0 +1,127 @@
+[2026-03-20 15:43:30] production.INFO: member redis store :{"key":"member-merchant_login:company1:a33b0d56760fc19c8f7b40a682d5e3e5","value":"ODej","expire":300}  
+[2026-03-20 15:56:33] production.INFO: $gradearray (
+  'vip_grade_id' => '1',
+  'company_id' => '1',
+  'grade_name' => '金卡會員',
+  'lv_type' => 'vip',
+  'default_grade' => 'false',
+  'is_disabled' => 'false',
+  'background_pic_url' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1756958097285.%E6%9C%83%E5%93%A1%E5%8D%A1_%E9%87%91%E5%8D%A1%E6%9C%83%E5%93%A1.png',
+  'description' => '每月消費滿 5000, 95折',
+  'price_list' => 
+  array (
+    0 => 
+    array (
+      'name' => 'monthly',
+      'price' => '5000',
+      'day' => '30',
+      'desc' => '30天',
+    ),
+    1 => 
+    array (
+      'name' => 'quarter',
+      'price' => '15000',
+      'day' => '90',
+      'desc' => '90天',
+    ),
+    2 => 
+    array (
+      'name' => 'year',
+      'price' => '65000',
+      'day' => '365',
+      'desc' => '365天',
+    ),
+  ),
+  'privileges' => 
+  array (
+    'discount' => '9.5',
+    'discount_desc' => '9.5',
+  ),
+  'created' => '1705456914',
+  'updated' => '1705456914',
+  'guide_title' => '白金卡會員。
+',
+  'is_default' => 'true',
+  'external_id' => '',
+  'discount_checked' => 'true',
+)  
+[2026-03-20 15:56:33] production.INFO: $gradearray (
+  'vip_grade_id' => '3',
+  'company_id' => '1',
+  'grade_name' => '黑卡會員',
+  'lv_type' => 'svip',
+  'default_grade' => 'false',
+  'is_disabled' => 'true',
+  'background_pic_url' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1756958097279.%E6%9C%83%E5%93%A1%E5%8D%A1_%E9%BB%91%E5%8D%A1%E6%9C%83%E5%93%A1.png',
+  'description' => '每月消費滿 7500, 9折',
+  'price_list' => 
+  array (
+    0 => 
+    array (
+      'name' => 'monthly',
+      'price' => '75000',
+      'day' => '30',
+      'desc' => '30天',
+    ),
+    1 => 
+    array (
+      'name' => 'quarter',
+      'price' => '225000',
+      'day' => '90',
+      'desc' => '90天',
+    ),
+    2 => 
+    array (
+      'name' => 'year',
+      'price' => '900000',
+      'day' => '365',
+      'desc' => '365天',
+    ),
+  ),
+  'privileges' => 
+  array (
+    'discount' => '9.0',
+    'discount_desc' => '9.0',
+  ),
+  'created' => '1705457277',
+  'updated' => '1705457277',
+  'guide_title' => '黑卡會員。
+',
+  'is_default' => 'false',
+  'external_id' => '',
+  'discount_checked' => 'true',
+)  
+[2026-03-20 16:04:49] production.ERROR: 您没有操作权限【pickuplocation.list.get】 {"exception":"[object] (Exception(code: 400500): 您没有操作权限【pickuplocation.list.get】 at /data/httpd/ecshopx-api/src/EspierBundle/Middleware/CheckActivedMiddleWare.php:159)
+[stacktrace]
+#0 /data/httpd/ecshopx-api/src/EspierBundle/Middleware/CheckActivedMiddleWare.php(29): EspierBundle\\Middleware\\CheckActivedMiddleWare->checkPermission(Object(CompanysBundle\\Ego\\GenericUser), Array)
+#1 /data/httpd/ecshopx-api/vendor/illuminate/pipeline/Pipeline.php(167): EspierBundle\\Middleware\\CheckActivedMiddleWare->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#2 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#3 /data/httpd/ecshopx-api/src/EspierBundle/Middleware/ShopLogMiddleWare.php(26): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#4 /data/httpd/ecshopx-api/vendor/illuminate/pipeline/Pipeline.php(167): EspierBundle\\Middleware\\ShopLogMiddleWare->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#5 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#6 /data/httpd/ecshopx-api/vendor/dingo/api/src/Http/Middleware/Auth.php(55): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#7 /data/httpd/ecshopx-api/vendor/illuminate/pipeline/Pipeline.php(167): Dingo\\Api\\Http\\Middleware\\Auth->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#8 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#9 /data/httpd/ecshopx-api/vendor/dingo/api/src/Http/Middleware/PrepareController.php(45): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#10 /data/httpd/ecshopx-api/vendor/illuminate/pipeline/Pipeline.php(167): Dingo\\Api\\Http\\Middleware\\PrepareController->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#11 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#12 /data/httpd/ecshopx-api/vendor/illuminate/pipeline/Pipeline.php(103): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#13 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(426): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#14 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(263): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#15 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(237): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#16 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(173): Laravel\\Lumen\\Application->handleDispatcherResponse(Array)
+#17 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#18 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#19 /data/httpd/ecshopx-api/app/AppKernel.php(73): Laravel\\Lumen\\Application->dispatch(Object(Dingo\\Api\\Http\\Request))
+#20 /data/httpd/ecshopx-api/src/EspierBundle/Dingo/Routing/Adapter/Espier.php(32): AppKernel->directDispatch(Object(Dingo\\Api\\Http\\Request))
+#21 /data/httpd/ecshopx-api/vendor/dingo/api/src/Routing/Router.php(518): EspierBundle\\Dingo\\Routing\\Adapter\\Espier->dispatch(Object(Dingo\\Api\\Http\\Request), 'v1')
+#22 /data/httpd/ecshopx-api/vendor/dingo/api/src/Http/Middleware/Request.php(126): Dingo\\Api\\Routing\\Router->dispatch(Object(Dingo\\Api\\Http\\Request))
+#23 /data/httpd/ecshopx-api/vendor/illuminate/pipeline/Pipeline.php(128): Dingo\\Api\\Http\\Middleware\\Request->Dingo\\Api\\Http\\Middleware\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#24 /data/httpd/ecshopx-api/vendor/illuminate/pipeline/Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#25 /data/httpd/ecshopx-api/vendor/dingo/api/src/Http/Middleware/Request.php(127): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#26 /data/httpd/ecshopx-api/vendor/dingo/api/src/Http/Middleware/Request.php(103): Dingo\\Api\\Http\\Middleware\\Request->sendRequestThroughRouter(Object(Dingo\\Api\\Http\\Request))
+#27 /data/httpd/ecshopx-api/app/AppKernel.php(56): Dingo\\Api\\Http\\Middleware\\Request->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#28 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): AppKernel->dispatch(NULL)
+#29 /data/httpd/ecshopx-api/public/index.php(31): Laravel\\Lumen\\Application->run()
+#30 {main}
+"} 

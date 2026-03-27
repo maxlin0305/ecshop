@@ -1,0 +1,24 @@
+[2026-02-26 09:46:36] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    'unionid' => '5',
+  ),
+  'timestamp' => '2026-02-26 09:46:36',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.member.getBindSalesperson',
+  'sign' => 'A5D05E16F58A4362C9676FC68C220182',
+)  
+[2026-02-26 09:46:36] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    'unionid' => '5',
+  ),
+  'timestamp' => '2026-02-26 09:46:36',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.member.getBindSalesperson',
+  'sign' => 'A5D05E16F58A4362C9676FC68C220182',
+)  
+[2026-02-26 09:46:37] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-26 09:46:37] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  

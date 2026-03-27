@@ -1,0 +1,3 @@
+[2026-03-11 10:55:10] production.INFO: member redis store :{"key":"member-login:company1:c313eed5ceed5626cb8b1c0facb78895","value":"BXS6","expire":300}  
+[2026-03-11 10:55:19] production.INFO: member redis store :{"key":"member-forgot_password:company1:361386ca846ba88d1699ade847442e97","value":"AqZ8","expire":300}  
+[2026-03-11 10:55:20] production.INFO: member redis store :{"key":"member-forgot_password:company1:a05fc5c96309512a7c04700a43881ac2","value":"w3ZZ","expire":300}  

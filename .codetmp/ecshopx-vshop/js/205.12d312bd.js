@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[205],{"1212":function(n,i,a){},"1440":function(n,i,a){"use strict";a.r(i);a(10),a(111),a(13),a(368);var o=a(364),c=(a(1212),a(110));function DianwuPickerShop(n){return Object(c.jsx)(o.B,{"className":"page-dianwu-picker-shop"})}DianwuPickerShop.options={"addGlobalClass":!0},i.default=DianwuPickerShop}}]);

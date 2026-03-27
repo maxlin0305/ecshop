@@ -1,0 +1,2 @@
+[2026-03-16 19:13:25] production.INFO: member redis store :{"key":"member-login:company1:c0e69cae614b83f25cd4e2ca5f85bbe0","value":"mrmT","expire":300}  
+[2026-03-16 19:14:55] production.INFO: member redis store :{"key":"member-login:company1:dfbcd764e430ed74ce15174f2f43896a","value":"aMca","expire":300}  

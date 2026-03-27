@@ -1,0 +1,836 @@
+[2025-12-24 10:40:41] production.DEBUG: 更新库存：item_id===>334  store===>10  
+[2025-12-24 10:40:41] production.DEBUG: wechat通知列表：array (
+)  
+[2025-12-24 10:40:41] production.DEBUG: alipay通知列表：array (
+)  
+[2025-12-24 10:40:41] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '智慧居家 水維氧濾水器 三合一空氣清淨機 智慧居家管理系統',
+      'item_price' => '880000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1724830251885.WechatIMG389.jpg',
+      'sku' => ' ',
+      'goods_bn' => '334',
+      'item_bn' => 'S6847C77EF41A5',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2025-12-24 10:40:41',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => '72877F8BB5367AE21FF4A3D61C41F39D',
+)  
+[2025-12-24 10:40:41] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2025-12-24 10:40:41] production.DEBUG: 更新库存：item_id===>335  store===>10  
+[2025-12-24 10:40:41] production.DEBUG: wechat通知列表：array (
+)  
+[2025-12-24 10:40:41] production.DEBUG: alipay通知列表：array (
+)  
+[2025-12-24 10:40:41] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '智慧居家 水維氧濾水器 三合一空氣清淨機 智慧居家管理系統',
+      'item_price' => '880000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1724830251885.WechatIMG389.jpg',
+      'sku' => ' ',
+      'goods_bn' => '335',
+      'item_bn' => 'S6847C77F7300E',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2025-12-24 10:40:41',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => '453ED3031F98A1834D979902AE28AC13',
+)  
+[2025-12-24 10:40:42] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2025-12-24 10:40:42] production.DEBUG: 更新库存：item_id===>336  store===>10  
+[2025-12-24 10:40:42] production.DEBUG: wechat通知列表：array (
+)  
+[2025-12-24 10:40:42] production.DEBUG: alipay通知列表：array (
+)  
+[2025-12-24 10:40:42] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '智慧居家 水維氧濾水器 三合一空氣清淨機 智慧居家管理系統',
+      'item_price' => '1999900',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1724830251885.WechatIMG389.jpg',
+      'sku' => ' ',
+      'goods_bn' => '336',
+      'item_bn' => 'S6847C77F9F185',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2025-12-24 10:40:42',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => 'DA18706643693615C15A8DE5252BF835',
+)  
+[2025-12-24 10:40:42] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2025-12-24 10:40:42] production.DEBUG: 更新库存：item_id===>337  store===>10  
+[2025-12-24 10:40:42] production.DEBUG: wechat通知列表：array (
+)  
+[2025-12-24 10:40:42] production.DEBUG: alipay通知列表：array (
+)  
+[2025-12-24 10:40:42] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '智慧居家 水維氧濾水器 三合一空氣清淨機 智慧居家管理系統',
+      'item_price' => '1999900',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1724830251885.WechatIMG389.jpg',
+      'sku' => ' ',
+      'goods_bn' => '337',
+      'item_bn' => 'S6847C77FCE4DF',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2025-12-24 10:40:42',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => '6B11B4BE379654FFC609975EBD12095D',
+)  
+[2025-12-24 10:40:42] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2025-12-24 10:40:42] production.DEBUG: 更新库存：item_id===>338  store===>10  
+[2025-12-24 10:40:42] production.DEBUG: wechat通知列表：array (
+)  
+[2025-12-24 10:40:42] production.DEBUG: alipay通知列表：array (
+)  
+[2025-12-24 10:40:42] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '智慧居家 水維氧濾水器 三合一空氣清淨機 智慧居家管理系統',
+      'item_price' => '2500000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1724830251885.WechatIMG389.jpg',
+      'sku' => ' ',
+      'goods_bn' => '338',
+      'item_bn' => 'S6847C780079FC',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2025-12-24 10:40:42',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => 'CDDF0B64A24FB592412A466DFDE06A5B',
+)  
+[2025-12-24 10:40:42] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2025-12-24 10:40:42] production.DEBUG: 更新库存：item_id===>339  store===>10  
+[2025-12-24 10:40:42] production.DEBUG: wechat通知列表：array (
+)  
+[2025-12-24 10:40:42] production.DEBUG: alipay通知列表：array (
+)  
+[2025-12-24 10:40:42] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '智慧居家 水維氧濾水器 三合一空氣清淨機 智慧居家管理系統',
+      'item_price' => '2500000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1724830251885.WechatIMG389.jpg',
+      'sku' => ' ',
+      'goods_bn' => '339',
+      'item_bn' => 'S6847C7802D97E',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2025-12-24 10:40:42',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => '6289966CA39D034EBB69DD684ED54F3F',
+)  
+[2025-12-24 10:40:42] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2025-12-24 10:45:43] production.DEBUG: 更新库存：item_id===>427  store===>20  
+[2025-12-24 10:45:43] production.DEBUG: wechat通知列表：array (
+)  
+[2025-12-24 10:45:43] production.DEBUG: alipay通知列表：array (
+)  
+[2025-12-24 10:45:43] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '水維氧淨水器濾心',
+      'item_price' => '600000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1722330808494.WechatIMG211.jpg',
+      'sku' => ' ',
+      'goods_bn' => '427',
+      'item_bn' => 'S694B53D75AC66',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2025-12-24 10:45:43',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => 'C585F09011E43E14FA43609A58B132A7',
+)  
+[2025-12-24 10:45:43] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2025-12-24 10:46:30] production.DEBUG: 更新库存：item_id===>334  store===>10  
+[2025-12-24 10:46:30] production.DEBUG: wechat通知列表：array (
+)  
+[2025-12-24 10:46:30] production.DEBUG: alipay通知列表：array (
+)  
+[2025-12-24 10:46:30] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '智慧居家 水維氧濾水器 三合一空氣清淨機 智慧居家管理系統',
+      'item_price' => '880000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1724830251885.WechatIMG389.jpg',
+      'sku' => ' ',
+      'goods_bn' => '334',
+      'item_bn' => 'S6847C77EF41A5',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2025-12-24 10:46:30',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => 'CCF665ECFCA6584149F5C58335329840',
+)  
+[2025-12-24 10:46:30] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2025-12-24 10:46:30] production.DEBUG: 更新库存：item_id===>335  store===>10  
+[2025-12-24 10:46:30] production.DEBUG: wechat通知列表：array (
+)  
+[2025-12-24 10:46:30] production.DEBUG: alipay通知列表：array (
+)  
+[2025-12-24 10:46:30] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '智慧居家 水維氧濾水器 三合一空氣清淨機 智慧居家管理系統',
+      'item_price' => '880000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1724830251885.WechatIMG389.jpg',
+      'sku' => ' ',
+      'goods_bn' => '335',
+      'item_bn' => 'S6847C77F7300E',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2025-12-24 10:46:30',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => '82953956D149C0847DDE4EFCA816F3A8',
+)  
+[2025-12-24 10:46:30] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2025-12-24 10:46:30] production.DEBUG: 更新库存：item_id===>336  store===>10  
+[2025-12-24 10:46:30] production.DEBUG: wechat通知列表：array (
+)  
+[2025-12-24 10:46:30] production.DEBUG: alipay通知列表：array (
+)  
+[2025-12-24 10:46:30] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '智慧居家 水維氧濾水器 三合一空氣清淨機 智慧居家管理系統',
+      'item_price' => '1999900',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1724830251885.WechatIMG389.jpg',
+      'sku' => ' ',
+      'goods_bn' => '336',
+      'item_bn' => 'S6847C77F9F185',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2025-12-24 10:46:30',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => 'F400CDDDA17F225581785AEF438CA0CF',
+)  
+[2025-12-24 10:46:30] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2025-12-24 10:46:30] production.DEBUG: 更新库存：item_id===>337  store===>10  
+[2025-12-24 10:46:30] production.DEBUG: wechat通知列表：array (
+)  
+[2025-12-24 10:46:30] production.DEBUG: alipay通知列表：array (
+)  
+[2025-12-24 10:46:30] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '智慧居家 水維氧濾水器 三合一空氣清淨機 智慧居家管理系統',
+      'item_price' => '1999900',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1724830251885.WechatIMG389.jpg',
+      'sku' => ' ',
+      'goods_bn' => '337',
+      'item_bn' => 'S6847C77FCE4DF',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2025-12-24 10:46:30',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => 'E208EF59356280AA616524B630133A48',
+)  
+[2025-12-24 10:46:31] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2025-12-24 10:46:31] production.DEBUG: 更新库存：item_id===>338  store===>10  
+[2025-12-24 10:46:31] production.DEBUG: wechat通知列表：array (
+)  
+[2025-12-24 10:46:31] production.DEBUG: alipay通知列表：array (
+)  
+[2025-12-24 10:46:31] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '智慧居家 水維氧濾水器 三合一空氣清淨機 智慧居家管理系統',
+      'item_price' => '2500000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1724830251885.WechatIMG389.jpg',
+      'sku' => ' ',
+      'goods_bn' => '338',
+      'item_bn' => 'S6847C780079FC',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2025-12-24 10:46:31',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => '3BB472964AA81E4FB0F1F673E1269D41',
+)  
+[2025-12-24 10:46:31] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2025-12-24 10:46:31] production.DEBUG: 更新库存：item_id===>339  store===>10  
+[2025-12-24 10:46:31] production.DEBUG: wechat通知列表：array (
+)  
+[2025-12-24 10:46:31] production.DEBUG: alipay通知列表：array (
+)  
+[2025-12-24 10:46:31] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '智慧居家 水維氧濾水器 三合一空氣清淨機 智慧居家管理系統',
+      'item_price' => '2500000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1724830251885.WechatIMG389.jpg',
+      'sku' => ' ',
+      'goods_bn' => '339',
+      'item_bn' => 'S6847C7802D97E',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2025-12-24 10:46:31',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => 'E102E4C05D13851022F767F31C0A2897',
+)  
+[2025-12-24 10:46:31] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2025-12-24 10:47:28] production.DEBUG: 更新库存：item_id===>326  store===>30  
+[2025-12-24 10:47:28] production.DEBUG: wechat通知列表：array (
+)  
+[2025-12-24 10:47:28] production.DEBUG: alipay通知列表：array (
+)  
+[2025-12-24 10:47:28] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '水維氧AI健康智能淨水系統+AI智慧管家平板',
+      'item_price' => '1999900',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1724768371813.WechatIMG706.jpg',
+      'sku' => '',
+      'goods_bn' => '326',
+      'item_bn' => 'S66E25E83131FB',
+      'approve_status' => 'instock',
+    ),
+  ),
+  'timestamp' => '2025-12-24 10:47:28',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => '2D6C47FD54863B7A61C7AF65D914A6B7',
+)  
+[2025-12-24 10:47:28] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2025-12-24 10:48:16] production.DEBUG: 更新库存：item_id===>319  store===>10  
+[2025-12-24 10:48:16] production.DEBUG: wechat通知列表：array (
+)  
+[2025-12-24 10:48:16] production.DEBUG: alipay通知列表：array (
+)  
+[2025-12-24 10:48:16] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '水維氧AI健康智能淨水系統（限一次付清）',
+      'item_price' => '1500000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1725258173200.WechatIMG441.jpg',
+      'sku' => '',
+      'goods_bn' => '319',
+      'item_bn' => 'S66CFDE575F975',
+      'approve_status' => 'instock',
+    ),
+  ),
+  'timestamp' => '2025-12-24 10:48:16',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => 'C2EDEEA94CC5EDB517D98167F83FE06F',
+)  
+[2025-12-24 10:48:16] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2025-12-24 10:50:09] production.ERROR: 自提和快递配送至少开启一项 {"exception":"[object] (Exception(code: 400500): 自提和快递配送至少开启一项 at /data/httpd/ecshopx-api/src/DistributionBundle/Http/Api/V1/Action/Distributor.php:664)
+[stacktrace]
+#0 /data/httpd/ecshopx-api/vendor/illuminate/container/BoundMethod.php(36): DistributionBundle\\Http\\Api\\V1\\Action\\Distributor->updateDistributor('5', Object(Dingo\\Api\\Http\\Request))
+#1 /data/httpd/ecshopx-api/vendor/illuminate/container/Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#2 /data/httpd/ecshopx-api/vendor/illuminate/container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#3 /data/httpd/ecshopx-api/vendor/illuminate/container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(AppKernel), Array, Object(Closure))
+#4 /data/httpd/ecshopx-api/vendor/illuminate/container/Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(AppKernel), Array, Array, NULL)
+#5 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(389): Illuminate\\Container\\Container->call(Array, Array)
+#6 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(355): Laravel\\Lumen\\Application->callControllerCallable(Array, Array)
+#7 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(329): Laravel\\Lumen\\Application->callLumenController(Object(DistributionBundle\\Http\\Api\\V1\\Action\\Distributor), 'updateDistribut...', Array)
+#8 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(282): Laravel\\Lumen\\Application->callControllerAction(Array)
+#9 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(262): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#10 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#11 /data/httpd/ecshopx-api/src/EspierBundle/Middleware/CheckActivedMiddleWare.php(96): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#12 /data/httpd/ecshopx-api/vendor/illuminate/pipeline/Pipeline.php(167): EspierBundle\\Middleware\\CheckActivedMiddleWare->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#13 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#14 /data/httpd/ecshopx-api/src/EspierBundle/Middleware/ShopLogMiddleWare.php(26): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#15 /data/httpd/ecshopx-api/vendor/illuminate/pipeline/Pipeline.php(167): EspierBundle\\Middleware\\ShopLogMiddleWare->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#16 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#17 /data/httpd/ecshopx-api/vendor/dingo/api/src/Http/Middleware/Auth.php(55): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#18 /data/httpd/ecshopx-api/vendor/illuminate/pipeline/Pipeline.php(167): Dingo\\Api\\Http\\Middleware\\Auth->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#19 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#20 /data/httpd/ecshopx-api/vendor/dingo/api/src/Http/Middleware/PrepareController.php(45): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#21 /data/httpd/ecshopx-api/vendor/illuminate/pipeline/Pipeline.php(167): Dingo\\Api\\Http\\Middleware\\PrepareController->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#22 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#23 /data/httpd/ecshopx-api/vendor/illuminate/pipeline/Pipeline.php(103): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#24 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(426): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#25 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(263): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#26 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(237): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#27 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(173): Laravel\\Lumen\\Application->handleDispatcherResponse(Array)
+#28 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#29 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#30 /data/httpd/ecshopx-api/app/AppKernel.php(73): Laravel\\Lumen\\Application->dispatch(Object(Dingo\\Api\\Http\\Request))
+#31 /data/httpd/ecshopx-api/src/EspierBundle/Dingo/Routing/Adapter/Espier.php(32): AppKernel->directDispatch(Object(Dingo\\Api\\Http\\Request))
+#32 /data/httpd/ecshopx-api/vendor/dingo/api/src/Routing/Router.php(518): EspierBundle\\Dingo\\Routing\\Adapter\\Espier->dispatch(Object(Dingo\\Api\\Http\\Request), 'v1')
+#33 /data/httpd/ecshopx-api/vendor/dingo/api/src/Http/Middleware/Request.php(126): Dingo\\Api\\Routing\\Router->dispatch(Object(Dingo\\Api\\Http\\Request))
+#34 /data/httpd/ecshopx-api/vendor/illuminate/pipeline/Pipeline.php(128): Dingo\\Api\\Http\\Middleware\\Request->Dingo\\Api\\Http\\Middleware\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#35 /data/httpd/ecshopx-api/vendor/illuminate/pipeline/Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#36 /data/httpd/ecshopx-api/vendor/dingo/api/src/Http/Middleware/Request.php(127): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#37 /data/httpd/ecshopx-api/vendor/dingo/api/src/Http/Middleware/Request.php(103): Dingo\\Api\\Http\\Middleware\\Request->sendRequestThroughRouter(Object(Dingo\\Api\\Http\\Request))
+#38 /data/httpd/ecshopx-api/app/AppKernel.php(56): Dingo\\Api\\Http\\Middleware\\Request->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#39 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): AppKernel->dispatch(NULL)
+#40 /data/httpd/ecshopx-api/public/index.php(31): Laravel\\Lumen\\Application->run()
+#41 {main}
+"} 
+[2025-12-24 10:50:09] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'store_bn' => 'GK001',
+      'store_name' => '記條條咖啡茶飲',
+      'contract_phone' => '0936902667',
+      'lng' => '121.54314',
+      'lat' => '25.04742',
+      'is_deleted' => '0',
+      'address' => '台灣省高雄市左營區高雄市左營區文川路388號',
+    ),
+  ),
+  'timestamp' => '2025-12-24 10:50:09',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.store.proccess',
+  'sign' => '7B0F1AA99E127E08C5E4C6FBE245BC1E',
+)  
+[2025-12-24 10:50:10] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2025-12-24 10:50:10] production.DEBUG: DistributorUpdateEvent_event:DistributionBundle\Events\DistributorUpdateEvent::__set_state(array(
+   'entities' => 
+  array (
+    'distributor_id' => '5',
+    'shop_id' => '0',
+    'is_distributor' => true,
+    'company_id' => '1',
+    'mobile' => '0936902667',
+    'address' => '高雄市左營區文川路388號',
+    'name' => '記條條咖啡茶飲',
+    'auto_sync_goods' => false,
+    'logo' => '',
+    'contract_phone' => '073457191',
+    'banner' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1756787853745.S__93143062.jpg',
+    'contact' => '蔡瓊慧',
+    'is_valid' => 'true',
+    'lng' => '121.54314',
+    'lat' => '25.04742',
+    'child_count' => 0,
+    'is_default' => 0,
+    'is_audit_goods' => true,
+    'is_ziti' => false,
+    'regions_id' => 
+    array (
+      0 => '710000',
+      1 => '710200',
+      2 => '710209',
+    ),
+    'regions' => 
+    array (
+      0 => '台灣省',
+      1 => '高雄市',
+      2 => '左營區',
+    ),
+    'is_domestic' => 1,
+    'is_direct_store' => 1,
+    'province' => '台灣省',
+    'is_delivery' => true,
+    'city' => '高雄市',
+    'area' => '左營區',
+    'hour' => '08:30-16:30',
+    'created' => 1756866663,
+    'updated' => 1766544609,
+    'shop_code' => 'GK001',
+    'wechat_work_department_id' => 0,
+    'distributor_self' => 0,
+    'regionauth_id' => 0,
+    'is_open' => 'false',
+    'rate' => NULL,
+    'is_dada' => false,
+    'business' => 0,
+    'dada_shop_create' => false,
+    'review_status' => false,
+    'dealer_id' => 0,
+    'split_ledger_info' => NULL,
+    'introduce' => '',
+    'merchant_id' => '8',
+    'distribution_type' => 1,
+    'is_require_subdistrict' => true,
+    'is_require_building' => true,
+    'delivery_distance' => 0,
+    'offline_aftersales' => 0,
+    'offline_aftersales_self' => false,
+    'offline_aftersales_distributor_id' => NULL,
+    'offline_aftersales_other' => 0,
+  ),
+))  
+[2025-12-24 10:50:10] production.DEBUG: companyId:1,distributorId:5,msg:未开启OME开放数据接口  
+[2025-12-24 10:50:17] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'store_bn' => 'GK001',
+      'store_name' => '記條條咖啡茶飲',
+      'contract_phone' => '0936902667',
+      'lng' => '121.54314',
+      'lat' => '25.04742',
+      'is_deleted' => '0',
+      'address' => '台灣省高雄市左營區高雄市左營區文川路388號',
+    ),
+  ),
+  'timestamp' => '2025-12-24 10:50:17',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.store.proccess',
+  'sign' => 'A2081532DC628CF4DD3F2C7A0672F49B',
+)  
+[2025-12-24 10:50:17] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2025-12-24 10:50:17] production.DEBUG: DistributorUpdateEvent_event:DistributionBundle\Events\DistributorUpdateEvent::__set_state(array(
+   'entities' => 
+  array (
+    'distributor_id' => '5',
+    'shop_id' => '0',
+    'is_distributor' => true,
+    'company_id' => '1',
+    'mobile' => '0936902667',
+    'address' => '高雄市左營區文川路388號',
+    'name' => '記條條咖啡茶飲',
+    'auto_sync_goods' => false,
+    'logo' => '',
+    'contract_phone' => '073457191',
+    'banner' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1756787853745.S__93143062.jpg',
+    'contact' => '蔡瓊慧',
+    'is_valid' => 'true',
+    'lng' => '121.54314',
+    'lat' => '25.04742',
+    'child_count' => 0,
+    'is_default' => 0,
+    'is_audit_goods' => true,
+    'is_ziti' => true,
+    'regions_id' => 
+    array (
+      0 => '710000',
+      1 => '710200',
+      2 => '710209',
+    ),
+    'regions' => 
+    array (
+      0 => '台灣省',
+      1 => '高雄市',
+      2 => '左營區',
+    ),
+    'is_domestic' => 1,
+    'is_direct_store' => 1,
+    'province' => '台灣省',
+    'is_delivery' => true,
+    'city' => '高雄市',
+    'area' => '左營區',
+    'hour' => '08:30-16:30',
+    'created' => 1756866663,
+    'updated' => 1766544617,
+    'shop_code' => 'GK001',
+    'wechat_work_department_id' => 0,
+    'distributor_self' => 0,
+    'regionauth_id' => 0,
+    'is_open' => 'false',
+    'rate' => NULL,
+    'is_dada' => false,
+    'business' => 0,
+    'dada_shop_create' => false,
+    'review_status' => false,
+    'dealer_id' => 0,
+    'split_ledger_info' => NULL,
+    'introduce' => '',
+    'merchant_id' => '8',
+    'distribution_type' => 1,
+    'is_require_subdistrict' => true,
+    'is_require_building' => true,
+    'delivery_distance' => 0,
+    'offline_aftersales' => 0,
+    'offline_aftersales_self' => false,
+    'offline_aftersales_distributor_id' => NULL,
+    'offline_aftersales_other' => 0,
+  ),
+))  
+[2025-12-24 10:50:17] production.DEBUG: companyId:1,distributorId:5,msg:未开启OME开放数据接口  
+[2025-12-24 10:50:19] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'store_bn' => 'GK001',
+      'store_name' => '記條條咖啡茶飲',
+      'contract_phone' => '0936902667',
+      'lng' => '121.54314',
+      'lat' => '25.04742',
+      'is_deleted' => '0',
+      'address' => '台灣省高雄市左營區高雄市左營區文川路388號',
+    ),
+  ),
+  'timestamp' => '2025-12-24 10:50:19',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.store.proccess',
+  'sign' => '8F4399502C6F46928A56B3177A5E1A80',
+)  
+[2025-12-24 10:50:19] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2025-12-24 10:50:19] production.DEBUG: DistributorUpdateEvent_event:DistributionBundle\Events\DistributorUpdateEvent::__set_state(array(
+   'entities' => 
+  array (
+    'distributor_id' => '5',
+    'shop_id' => '0',
+    'is_distributor' => true,
+    'company_id' => '1',
+    'mobile' => '0936902667',
+    'address' => '高雄市左營區文川路388號',
+    'name' => '記條條咖啡茶飲',
+    'auto_sync_goods' => false,
+    'logo' => '',
+    'contract_phone' => '073457191',
+    'banner' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1756787853745.S__93143062.jpg',
+    'contact' => '蔡瓊慧',
+    'is_valid' => 'true',
+    'lng' => '121.54314',
+    'lat' => '25.04742',
+    'child_count' => 0,
+    'is_default' => 0,
+    'is_audit_goods' => true,
+    'is_ziti' => false,
+    'regions_id' => 
+    array (
+      0 => '710000',
+      1 => '710200',
+      2 => '710209',
+    ),
+    'regions' => 
+    array (
+      0 => '台灣省',
+      1 => '高雄市',
+      2 => '左營區',
+    ),
+    'is_domestic' => 1,
+    'is_direct_store' => 1,
+    'province' => '台灣省',
+    'is_delivery' => true,
+    'city' => '高雄市',
+    'area' => '左營區',
+    'hour' => '08:30-16:30',
+    'created' => 1756866663,
+    'updated' => 1766544619,
+    'shop_code' => 'GK001',
+    'wechat_work_department_id' => 0,
+    'distributor_self' => 0,
+    'regionauth_id' => 0,
+    'is_open' => 'false',
+    'rate' => NULL,
+    'is_dada' => false,
+    'business' => 0,
+    'dada_shop_create' => false,
+    'review_status' => false,
+    'dealer_id' => 0,
+    'split_ledger_info' => NULL,
+    'introduce' => '',
+    'merchant_id' => '8',
+    'distribution_type' => 1,
+    'is_require_subdistrict' => true,
+    'is_require_building' => true,
+    'delivery_distance' => 0,
+    'offline_aftersales' => 0,
+    'offline_aftersales_self' => false,
+    'offline_aftersales_distributor_id' => NULL,
+    'offline_aftersales_other' => 0,
+  ),
+))  
+[2025-12-24 10:50:19] production.DEBUG: companyId:1,distributorId:5,msg:未开启OME开放数据接口  
+[2025-12-24 10:59:29] production.ERROR: 自提和快递配送至少开启一项 {"exception":"[object] (Exception(code: 400500): 自提和快递配送至少开启一项 at /data/httpd/ecshopx-api/src/DistributionBundle/Http/Api/V1/Action/Distributor.php:307)
+[stacktrace]
+#0 /data/httpd/ecshopx-api/vendor/illuminate/container/BoundMethod.php(36): DistributionBundle\\Http\\Api\\V1\\Action\\Distributor->createDistributor(Object(Dingo\\Api\\Http\\Request))
+#1 /data/httpd/ecshopx-api/vendor/illuminate/container/Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#2 /data/httpd/ecshopx-api/vendor/illuminate/container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#3 /data/httpd/ecshopx-api/vendor/illuminate/container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(AppKernel), Array, Object(Closure))
+#4 /data/httpd/ecshopx-api/vendor/illuminate/container/Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(AppKernel), Array, Array, NULL)
+#5 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(389): Illuminate\\Container\\Container->call(Array, Array)
+#6 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(355): Laravel\\Lumen\\Application->callControllerCallable(Array, Array)
+#7 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(329): Laravel\\Lumen\\Application->callLumenController(Object(DistributionBundle\\Http\\Api\\V1\\Action\\Distributor), 'createDistribut...', Array)
+#8 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(282): Laravel\\Lumen\\Application->callControllerAction(Array)
+#9 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(262): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#10 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#11 /data/httpd/ecshopx-api/src/EspierBundle/Middleware/CheckActivedMiddleWare.php(96): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#12 /data/httpd/ecshopx-api/vendor/illuminate/pipeline/Pipeline.php(167): EspierBundle\\Middleware\\CheckActivedMiddleWare->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#13 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#14 /data/httpd/ecshopx-api/src/EspierBundle/Middleware/ShopLogMiddleWare.php(26): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#15 /data/httpd/ecshopx-api/vendor/illuminate/pipeline/Pipeline.php(167): EspierBundle\\Middleware\\ShopLogMiddleWare->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#16 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#17 /data/httpd/ecshopx-api/vendor/dingo/api/src/Http/Middleware/Auth.php(55): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#18 /data/httpd/ecshopx-api/vendor/illuminate/pipeline/Pipeline.php(167): Dingo\\Api\\Http\\Middleware\\Auth->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#19 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#20 /data/httpd/ecshopx-api/vendor/dingo/api/src/Http/Middleware/PrepareController.php(45): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#21 /data/httpd/ecshopx-api/vendor/illuminate/pipeline/Pipeline.php(167): Dingo\\Api\\Http\\Middleware\\PrepareController->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#22 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#23 /data/httpd/ecshopx-api/vendor/illuminate/pipeline/Pipeline.php(103): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#24 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(426): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#25 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(263): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#26 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(237): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#27 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(173): Laravel\\Lumen\\Application->handleDispatcherResponse(Array)
+#28 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#29 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#30 /data/httpd/ecshopx-api/app/AppKernel.php(73): Laravel\\Lumen\\Application->dispatch(Object(Dingo\\Api\\Http\\Request))
+#31 /data/httpd/ecshopx-api/src/EspierBundle/Dingo/Routing/Adapter/Espier.php(32): AppKernel->directDispatch(Object(Dingo\\Api\\Http\\Request))
+#32 /data/httpd/ecshopx-api/vendor/dingo/api/src/Routing/Router.php(518): EspierBundle\\Dingo\\Routing\\Adapter\\Espier->dispatch(Object(Dingo\\Api\\Http\\Request), 'v1')
+#33 /data/httpd/ecshopx-api/vendor/dingo/api/src/Http/Middleware/Request.php(126): Dingo\\Api\\Routing\\Router->dispatch(Object(Dingo\\Api\\Http\\Request))
+#34 /data/httpd/ecshopx-api/vendor/illuminate/pipeline/Pipeline.php(128): Dingo\\Api\\Http\\Middleware\\Request->Dingo\\Api\\Http\\Middleware\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#35 /data/httpd/ecshopx-api/vendor/illuminate/pipeline/Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#36 /data/httpd/ecshopx-api/vendor/dingo/api/src/Http/Middleware/Request.php(127): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#37 /data/httpd/ecshopx-api/vendor/dingo/api/src/Http/Middleware/Request.php(103): Dingo\\Api\\Http\\Middleware\\Request->sendRequestThroughRouter(Object(Dingo\\Api\\Http\\Request))
+#38 /data/httpd/ecshopx-api/app/AppKernel.php(56): Dingo\\Api\\Http\\Middleware\\Request->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#39 /data/httpd/ecshopx-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): AppKernel->dispatch(NULL)
+#40 /data/httpd/ecshopx-api/public/index.php(31): Laravel\\Lumen\\Application->run()
+#41 {main}
+"} 
+[2025-12-24 10:59:49] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'store_bn' => 'enGoTPE',
+      'store_name' => '智管家智能家居台北分部',
+      'contract_phone' => '0988143663',
+      'lng' => '121.54314',
+      'lat' => '25.04742',
+      'is_deleted' => '0',
+      'address' => '台灣省台北市中山區八德路二段325號3樓',
+    ),
+  ),
+  'timestamp' => '2025-12-24 10:59:49',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.store.proccess',
+  'sign' => '94E5AB18A0FB1345757AE00A0F374863',
+)  
+[2025-12-24 10:59:50] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2025-12-24 10:59:50] production.DEBUG: DistributorCreateEvent_event:DistributionBundle\Events\DistributorCreateEvent::__set_state(array(
+   'entities' => 
+  array (
+    'distributor_id' => '6',
+    'shop_id' => 0,
+    'is_distributor' => true,
+    'company_id' => '1',
+    'mobile' => '0988143663',
+    'address' => '八德路二段325號3樓',
+    'name' => '智管家智能家居台北分部',
+    'auto_sync_goods' => false,
+    'logo' => '',
+    'contract_phone' => '',
+    'banner' => '',
+    'contact' => '小毅',
+    'is_valid' => 'true',
+    'lng' => '121.54314',
+    'lat' => '25.04742',
+    'child_count' => 0,
+    'is_default' => 0,
+    'is_audit_goods' => false,
+    'is_ziti' => false,
+    'regions_id' => 
+    array (
+      0 => '710000',
+      1 => '710100',
+      2 => '710103',
+    ),
+    'regions' => 
+    array (
+      0 => '台灣省',
+      1 => '台北市',
+      2 => '中山區',
+    ),
+    'is_domestic' => 1,
+    'is_direct_store' => 1,
+    'province' => '台灣省',
+    'is_delivery' => true,
+    'city' => '台北市',
+    'area' => '中山區',
+    'hour' => '09:00-19:00',
+    'created' => 1766545189,
+    'updated' => 1766545189,
+    'shop_code' => 'enGoTPE',
+    'wechat_work_department_id' => 0,
+    'distributor_self' => '0',
+    'regionauth_id' => 0,
+    'is_open' => 'false',
+    'rate' => NULL,
+    'is_dada' => 0,
+    'business' => '',
+    'dada_shop_create' => 0,
+    'review_status' => 0,
+    'dealer_id' => 0,
+    'split_ledger_info' => NULL,
+    'introduce' => '',
+    'merchant_id' => '1',
+    'distribution_type' => '1',
+    'is_require_subdistrict' => false,
+    'is_require_building' => false,
+    'delivery_distance' => 0,
+    'offline_aftersales' => false,
+    'offline_aftersales_self' => false,
+    'offline_aftersales_distributor_id' => NULL,
+    'offline_aftersales_other' => false,
+  ),
+))  
+[2025-12-24 10:59:50] production.DEBUG: companyId:1,distributorId:6,msg:未开启OME开放数据接口  

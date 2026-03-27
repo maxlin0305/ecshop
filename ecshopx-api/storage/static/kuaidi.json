@@ -1,0 +1,44 @@
+[
+    {
+        "corp_code": "SHUN_FENG",
+        "kuaidi_code": "shunfeng",
+        "corp_name": "順豐快遞",
+        "phone": "02-4128830",
+        "logo": "https://cdn.kuaidi100.com/images/all/56/shunfeng.png"
+    },
+    {
+        "corp_code": "DHL_EN",
+        "kuaidi_code": "dhlen",
+        "corp_name": "DHL國際快遞",
+        "phone": "0800-769-888",
+        "logo": "https://cdn.kuaidi100.com/images/all/56/dhl.png"
+    },
+    {
+        "corp_code": "EMS",
+        "kuaidi_code": "ems",
+        "corp_name": "EMS國際快遞",
+        "phone": "0800-700-365",
+        "logo": "https://cdn.kuaidi100.com/images/all/56/ems.png"
+    },
+    {
+        "corp_code": "fed_ex_cn",
+        "kuaidi_code": "fedex",
+        "corp_name": "FedEx快遞",
+        "phone": "0800-075-075",
+        "logo": "https://cdn.kuaidi100.com/images/all/56/fedex.png"
+    },
+    {
+        "corp_code": "TC_AT",
+        "kuaidi_code": "tcat",
+        "corp_name": "黑貓宅急便",
+        "phone": "02-4128888",
+        "logo": "https://cdn.kuaidi100.com/images/all/56/tcat.png"
+    },
+    {
+        "corp_code": "TCAT",
+        "kuaidi_code": "HOME",
+        "corp_name": "黑猫快递",
+        "phone": "00000000",
+        "logo": "https://b-img-cdn.yuanyuanke.cn/image/21/2021/05/21/f425f5ae2e6032eb6fded1015fc979e4XN8Ie3FE75t4nc4MxGuU0UqUQyAgDkTX"
+    }
+]

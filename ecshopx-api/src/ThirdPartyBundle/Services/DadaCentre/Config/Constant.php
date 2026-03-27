@@ -1,0 +1,14 @@
+<?php
+
+namespace ThirdPartyBundle\Services\DadaCentre\Config;
+
+class Constant
+{
+    public const FAIL = "fail";
+
+    public const SUCCESS = "success";
+
+    public const FAIL_MSG = "接口请求超时或失败";
+
+    public const FAIL_CODE = -2;
+}

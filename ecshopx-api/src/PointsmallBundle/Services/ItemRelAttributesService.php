@@ -1,0 +1,32 @@
+<?php
+
+namespace PointsmallBundle\Services;
+
+use PointsmallBundle\Entities\PointsmallItemRelAttributes;
+
+class ItemRelAttributesService
+{
+    public $ItemRelAttributes;
+    /**
+     * ItemsTagsService 构造函数.
+     */
+    public function __construct()
+    {
+        $this->ItemRelAttributes = app('registry')->getManager('default')->getRepository(PointsmallItemRelAttributes::class);
+    }
+
+    public function getItemIdsByAttributeids($filter)
+    {
+        $ItemRelAttributesList = $this->ItemRelAttributes->lists($filter);
+        $itemIds = array_column($ItemRelAttributesList['list'], 'item_id');
+        return $itemIds;
+    }
+
+
+
+    // 如果可以直接调取Repositories中的方法，则直接调用
+    public function __call($method, $parameters)
+    {
+        return $this->ItemRelAttributes->$method(...$parameters);
+    }
+}

@@ -1,0 +1,619 @@
+[2026-02-23 17:09:21] production.DEBUG: 更新库存：item_id===>428  store===>10  
+[2026-02-23 17:09:21] production.DEBUG: wechat通知列表：array (
+)  
+[2026-02-23 17:09:21] production.DEBUG: alipay通知列表：array (
+)  
+[2026-02-23 17:09:21] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => 'enGo 水精靈',
+      'item_price' => '1800000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1725258173200.WechatIMG441.jpg',
+      'sku' => '  ',
+      'goods_bn' => '428',
+      'item_bn' => 'S699C1941C63D8',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2026-02-23 17:09:21',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => '24AF6FA832684D982E4B62BBCE08EF10',
+)  
+[2026-02-23 17:09:22] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-23 17:09:22] production.DEBUG: 更新库存：item_id===>429  store===>10  
+[2026-02-23 17:09:22] production.DEBUG: wechat通知列表：array (
+)  
+[2026-02-23 17:09:22] production.DEBUG: alipay通知列表：array (
+)  
+[2026-02-23 17:09:22] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => 'enGo 水精靈',
+      'item_price' => '3000000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1725258173200.WechatIMG441.jpg',
+      'sku' => '  ',
+      'goods_bn' => '429',
+      'item_bn' => 'S699C194270B7C',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2026-02-23 17:09:22',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => 'B1BC2F900A466D0FB233B94CAA3870BD',
+)  
+[2026-02-23 17:09:22] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-23 17:09:22] production.DEBUG: 更新库存：item_id===>430  store===>10  
+[2026-02-23 17:09:22] production.DEBUG: wechat通知列表：array (
+)  
+[2026-02-23 17:09:22] production.DEBUG: alipay通知列表：array (
+)  
+[2026-02-23 17:09:22] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => 'enGo 水精靈',
+      'item_price' => '3000000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1725258173200.WechatIMG441.jpg',
+      'sku' => '  ',
+      'goods_bn' => '430',
+      'item_bn' => 'S699C19429171D',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2026-02-23 17:09:22',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => 'D66989951CEFDAE10A6A7EC17994B372',
+)  
+[2026-02-23 17:09:22] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-23 17:10:27] production.DEBUG: 更新库存：item_id===>352  store===>5  
+[2026-02-23 17:10:27] production.DEBUG: wechat通知列表：array (
+)  
+[2026-02-23 17:10:27] production.DEBUG: alipay通知列表：array (
+)  
+[2026-02-23 17:10:27] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '四用空氣清淨機',
+      'item_price' => '800000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1749526363744.7771749526142_.pic_hd.jpg',
+      'sku' => ' ',
+      'goods_bn' => '352',
+      'item_bn' => 'S68B7D38E47881',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2026-02-23 17:10:27',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => '52CD040A051FBD14C96F1F1DF2A99DA4',
+)  
+[2026-02-23 17:10:27] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-23 17:10:27] production.DEBUG: 更新库存：item_id===>353  store===>5  
+[2026-02-23 17:10:27] production.DEBUG: wechat通知列表：array (
+)  
+[2026-02-23 17:10:27] production.DEBUG: alipay通知列表：array (
+)  
+[2026-02-23 17:10:27] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '四用空氣清淨機',
+      'item_price' => '800000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1749526363744.7771749526142_.pic_hd.jpg',
+      'sku' => ' ',
+      'goods_bn' => '353',
+      'item_bn' => 'S68B7D38EC3E5E',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2026-02-23 17:10:27',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => 'EB989A7DA5CFC47DFFCD253186DCBED3',
+)  
+[2026-02-23 17:10:28] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-23 17:26:32] production.DEBUG: 更新库存：item_id===>334  store===>10  
+[2026-02-23 17:26:32] production.DEBUG: wechat通知列表：array (
+)  
+[2026-02-23 17:26:32] production.DEBUG: alipay通知列表：array (
+)  
+[2026-02-23 17:26:32] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => 'enGo 陽光空氣水組合',
+      'item_price' => '5000000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1724830251885.WechatIMG389.jpg',
+      'sku' => ' ',
+      'goods_bn' => '334',
+      'item_bn' => 'S6847C77EF41A5',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2026-02-23 17:26:32',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => '76D5A7D867C8F785018E79034A78CCB6',
+)  
+[2026-02-23 17:26:32] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-23 17:26:32] production.DEBUG: 更新库存：item_id===>335  store===>10  
+[2026-02-23 17:26:32] production.DEBUG: wechat通知列表：array (
+)  
+[2026-02-23 17:26:32] production.DEBUG: alipay通知列表：array (
+)  
+[2026-02-23 17:26:32] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => 'enGo 陽光空氣水組合',
+      'item_price' => '5000000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1724830251885.WechatIMG389.jpg',
+      'sku' => ' ',
+      'goods_bn' => '335',
+      'item_bn' => 'S6847C77F7300E',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2026-02-23 17:26:32',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => 'B29D355B1F3F94B856FCE053485C9828',
+)  
+[2026-02-23 17:26:32] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-23 17:27:20] production.DEBUG: 更新库存：item_id===>334  store===>10  
+[2026-02-23 17:27:20] production.DEBUG: wechat通知列表：array (
+)  
+[2026-02-23 17:27:20] production.DEBUG: alipay通知列表：array (
+)  
+[2026-02-23 17:27:20] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => 'enGo 陽光空氣水組合',
+      'item_price' => '5000000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1724830251885.WechatIMG389.jpg',
+      'sku' => ' ',
+      'goods_bn' => '334',
+      'item_bn' => 'S6847C77EF41A5',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2026-02-23 17:27:20',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => 'BA6EABB5BCC6CA9D9E0B3C8F07E14D91',
+)  
+[2026-02-23 17:27:20] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-23 17:27:20] production.DEBUG: 更新库存：item_id===>335  store===>10  
+[2026-02-23 17:27:20] production.DEBUG: wechat通知列表：array (
+)  
+[2026-02-23 17:27:20] production.DEBUG: alipay通知列表：array (
+)  
+[2026-02-23 17:27:20] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => 'enGo 陽光空氣水組合',
+      'item_price' => '5000000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1724830251885.WechatIMG389.jpg',
+      'sku' => ' ',
+      'goods_bn' => '335',
+      'item_bn' => 'S6847C77F7300E',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2026-02-23 17:27:20',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => '9E1E3957B2AF3AA4187B90DDCBA4365A',
+)  
+[2026-02-23 17:27:20] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-23 17:27:20] production.DEBUG: 更新库存：item_id===>431  store===>10  
+[2026-02-23 17:27:20] production.DEBUG: wechat通知列表：array (
+)  
+[2026-02-23 17:27:20] production.DEBUG: alipay通知列表：array (
+)  
+[2026-02-23 17:27:20] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => 'enGo 陽光空氣水組合',
+      'item_price' => '5000000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1724830251885.WechatIMG389.jpg',
+      'sku' => ' ',
+      'goods_bn' => '431',
+      'item_bn' => 'S6847C77F7300D',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2026-02-23 17:27:20',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => 'BA00FD7B7BE735D9A8452BFE2D286706',
+)  
+[2026-02-23 17:27:20] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-23 17:36:18] production.DEBUG: 更新库存：item_id===>432  store===>10  
+[2026-02-23 17:36:18] production.DEBUG: wechat通知列表：array (
+)  
+[2026-02-23 17:36:18] production.DEBUG: alipay通知列表：array (
+)  
+[2026-02-23 17:36:18] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => 'enGo 陽光空氣水組合',
+      'item_price' => '5000000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1724830251885.WechatIMG389.jpg',
+      'sku' => ' ',
+      'goods_bn' => '432',
+      'item_bn' => 'S699C1F92732FD',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2026-02-23 17:36:18',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => 'A2EDDF35CC6013B2811A0F84F5F74E19',
+)  
+[2026-02-23 17:36:18] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-23 17:36:18] production.DEBUG: 更新库存：item_id===>433  store===>10  
+[2026-02-23 17:36:18] production.DEBUG: wechat通知列表：array (
+)  
+[2026-02-23 17:36:18] production.DEBUG: alipay通知列表：array (
+)  
+[2026-02-23 17:36:18] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => 'enGo 陽光空氣水組合',
+      'item_price' => '5000000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1724830251885.WechatIMG389.jpg',
+      'sku' => ' ',
+      'goods_bn' => '433',
+      'item_bn' => 'S699C1F92D491E',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2026-02-23 17:36:18',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => '4ADD534848EFC084CF584ED1A12E5A67',
+)  
+[2026-02-23 17:36:18] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-23 17:39:57] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'del_ids' => 
+      array (
+        0 => '432',
+        1 => '433',
+      ),
+      'item_bn' => 'S699C1F92732FD',
+    ),
+  ),
+  'timestamp' => '2026-02-23 17:39:57',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => '5DFA5C98874D7FDB7508A300AE3F3C4E',
+)  
+[2026-02-23 17:39:57] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-23 17:57:44] production.DEBUG: 更新库存：item_id===>434  store===>1  
+[2026-02-23 17:57:44] production.DEBUG: wechat通知列表：array (
+)  
+[2026-02-23 17:57:44] production.DEBUG: alipay通知列表：array (
+)  
+[2026-02-23 17:57:44] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '陽光空氣水組合',
+      'item_price' => '5000000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1771838038407.watervalve.png',
+      'sku' => '',
+      'goods_bn' => '434',
+      'item_bn' => 'S699C2498C85FA',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2026-02-23 17:57:44',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => 'FEA455E4AC75B55BEA2C51F125D22357',
+)  
+[2026-02-23 17:57:45] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-23 18:01:50] production.DEBUG: 更新库存：item_id===>435  store===>10  
+[2026-02-23 18:01:50] production.DEBUG: wechat通知列表：array (
+)  
+[2026-02-23 18:01:50] production.DEBUG: alipay通知列表：array (
+)  
+[2026-02-23 18:01:50] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '陽光空氣水組合',
+      'item_price' => '5000000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1771838038407.watervalve.png',
+      'sku' => ' ',
+      'goods_bn' => '435',
+      'item_bn' => 'S699C258E06F33',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2026-02-23 18:01:50',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => 'F3F962475BE2B963F846B70E1BF3472B',
+)  
+[2026-02-23 18:01:50] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-23 18:01:50] production.DEBUG: 更新库存：item_id===>436  store===>10  
+[2026-02-23 18:01:50] production.DEBUG: wechat通知列表：array (
+)  
+[2026-02-23 18:01:50] production.DEBUG: alipay通知列表：array (
+)  
+[2026-02-23 18:01:50] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '陽光空氣水組合',
+      'item_price' => '5000000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1771838038407.watervalve.png',
+      'sku' => ' ',
+      'goods_bn' => '436',
+      'item_bn' => 'S699C258E6E5DE',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2026-02-23 18:01:50',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => 'A5758A941935D6094CDD233ABAB1A0BA',
+)  
+[2026-02-23 18:01:50] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-23 18:28:36] production.DEBUG: 更新库存：item_id===>435  store===>10  
+[2026-02-23 18:28:36] production.DEBUG: wechat通知列表：array (
+)  
+[2026-02-23 18:28:36] production.DEBUG: alipay通知列表：array (
+)  
+[2026-02-23 18:28:36] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '陽光空氣水組合',
+      'item_price' => '5000000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1771838038407.watervalve.png',
+      'sku' => ' ',
+      'goods_bn' => '435',
+      'item_bn' => 'S699C258E06F33',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2026-02-23 18:28:36',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => '9E2D8CC693680BFE5028F7C88C383DEA',
+)  
+[2026-02-23 18:28:37] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-23 18:28:37] production.DEBUG: 更新库存：item_id===>436  store===>10  
+[2026-02-23 18:28:37] production.DEBUG: wechat通知列表：array (
+)  
+[2026-02-23 18:28:37] production.DEBUG: alipay通知列表：array (
+)  
+[2026-02-23 18:28:37] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '陽光空氣水組合',
+      'item_price' => '5000000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1771838038407.watervalve.png',
+      'sku' => ' ',
+      'goods_bn' => '436',
+      'item_bn' => 'S699C258E6E5DE',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2026-02-23 18:28:37',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => 'A8DBCDD75A91C83B307C28A5411FAEAD',
+)  
+[2026-02-23 18:28:37] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-23 18:32:54] production.INFO: member redis store :{"key":"member-login:company1:a3273b814835dd9bea5a11c6de1efd9c","value":"uufn","expire":300}  
+[2026-02-23 18:47:47] production.DEBUG: 更新库存：item_id===>435  store===>10  
+[2026-02-23 18:47:47] production.DEBUG: wechat通知列表：array (
+)  
+[2026-02-23 18:47:47] production.DEBUG: alipay通知列表：array (
+)  
+[2026-02-23 18:47:47] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '陽光空氣水組合',
+      'item_price' => '5000000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1771838038407.watervalve.png',
+      'sku' => ' ',
+      'goods_bn' => '435',
+      'item_bn' => 'S699C258E06F33',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2026-02-23 18:47:47',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => '013295F5EC9B17CE9F05C959F5439A35',
+)  
+[2026-02-23 18:47:48] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-23 18:47:48] production.DEBUG: 更新库存：item_id===>436  store===>10  
+[2026-02-23 18:47:48] production.DEBUG: wechat通知列表：array (
+)  
+[2026-02-23 18:47:48] production.DEBUG: alipay通知列表：array (
+)  
+[2026-02-23 18:47:48] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '陽光空氣水組合',
+      'item_price' => '5000000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1771838038407.watervalve.png',
+      'sku' => ' ',
+      'goods_bn' => '436',
+      'item_bn' => 'S699C258E6E5DE',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2026-02-23 18:47:48',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => '340AE907EEEF11432E50B9D25895840F',
+)  
+[2026-02-23 18:47:48] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-23 18:50:15] production.DEBUG: 更新库存：item_id===>435  store===>10  
+[2026-02-23 18:50:15] production.DEBUG: wechat通知列表：array (
+)  
+[2026-02-23 18:50:15] production.DEBUG: alipay通知列表：array (
+)  
+[2026-02-23 18:50:15] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '陽光空氣水組合',
+      'item_price' => '5000000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1771838038407.watervalve.png',
+      'sku' => ' ',
+      'goods_bn' => '435',
+      'item_bn' => 'S699C258E06F33',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2026-02-23 18:50:15',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => 'BF47F98E742333A66BCFEC109AD37DF0',
+)  
+[2026-02-23 18:50:15] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-23 18:50:15] production.DEBUG: 更新库存：item_id===>436  store===>10  
+[2026-02-23 18:50:15] production.DEBUG: wechat通知列表：array (
+)  
+[2026-02-23 18:50:15] production.DEBUG: alipay通知列表：array (
+)  
+[2026-02-23 18:50:15] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '陽光空氣水組合',
+      'item_price' => '5000000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1771838038407.watervalve.png',
+      'sku' => ' ',
+      'goods_bn' => '436',
+      'item_bn' => 'S699C258E6E5DE',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2026-02-23 18:50:15',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => 'FCF56CBECB1FF13AB095085D3C7D845D',
+)  
+[2026-02-23 18:50:16] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-23 19:16:31] production.DEBUG: 更新库存：item_id===>435  store===>10  
+[2026-02-23 19:16:31] production.DEBUG: wechat通知列表：array (
+)  
+[2026-02-23 19:16:31] production.DEBUG: alipay通知列表：array (
+)  
+[2026-02-23 19:16:31] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '陽光空氣水組合',
+      'item_price' => '5000000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1771838038407.watervalve.png',
+      'sku' => ' ',
+      'goods_bn' => '435',
+      'item_bn' => 'S699C258E06F33',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2026-02-23 19:16:31',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => 'C55C8B2486362AF972034EFEF7B2EA3C',
+)  
+[2026-02-23 19:16:31] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-23 19:16:31] production.DEBUG: 更新库存：item_id===>436  store===>10  
+[2026-02-23 19:16:31] production.DEBUG: wechat通知列表：array (
+)  
+[2026-02-23 19:16:31] production.DEBUG: alipay通知列表：array (
+)  
+[2026-02-23 19:16:31] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    0 => 
+    array (
+      'item_name' => '陽光空氣水組合',
+      'item_price' => '5000000',
+      'pic' => 'https://shopx-bucket.s3.ap-northeast-1.amazonaws.com/1771838038407.watervalve.png',
+      'sku' => ' ',
+      'goods_bn' => '436',
+      'item_bn' => 'S699C258E6E5DE',
+      'approve_status' => 'onsale',
+    ),
+  ),
+  'timestamp' => '2026-02-23 19:16:31',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.item.proccess',
+  'sign' => '29B1C8AA2C20ECEC1556D127A558EF7B',
+)  
+[2026-02-23 19:16:32] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  

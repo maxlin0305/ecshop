@@ -1,0 +1,43 @@
+[2026-02-25 17:26:55] production.INFO: member redis store :{"key":"member-login:company1:2acc26a22815a67c056b981ccc353ae5","value":"fcvZ","expire":300}  
+[2026-02-25 17:39:12] production.INFO: member redis store :{"key":"member-login:company1:ac452483aaa117c3983cd365f81438c9","value":"Vnql","expire":300}  
+[2026-02-25 17:39:16] production.DEBUG: request_url=>https://tinside.smtengo.com/v1/api/member/info/5  
+[2026-02-25 17:39:16] production.DEBUG: header_param=> {"Content-Type":"application/json;charset=utf-8","Accept":"application/json","appKey":"aLjyMhsaMmKsChOEOFccqjTHFUMXzJSw","appSecret":"fzyCEryeGSalydJakjRDduHGIOwRcAqvImOnZZUKXPbFbXCIMGeLLuCVErsxkIhL"} 
+[2026-02-25 17:39:16] production.DEBUG: response=>--{"timestamp":1772012356546,"code":0,"status":200,"message":null,"model":{"id":5,"firstName":null,"lastName":null,"nickName":"sean","faceUrl":null,"gender":null,"email":"sean.li@smtengo.com","phone":null,"birthday":null,"maritalStatus":null,"annualIncome":null,"vocation":null,"address":[{"city":"臺北市","district":"中山區","street":"八德路二段325號","postalCode":null,"address":"智管家實驗社區301"}]}}  
+[2026-02-25 17:39:16] production.DEBUG: 自动更新用户信息$updateMembers user_id ==> 11 {"mobile":null,"email":"sean.li@smtengo.com"} 
+[2026-02-25 17:39:16] production.DEBUG: 自动更新用户信息$updateMembersInfo user_id ==> 11 {"username":"sean","mobile":null,"email":"sean.li@smtengo.com","income":null,"industry":null,"avatar":null,"sex":0,"address":"臺北市中山區八德路二段325號智管家實驗社區301","lng":0,"lat":0} 
+[2026-02-25 17:42:51] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    'unionid' => '5',
+  ),
+  'timestamp' => '2026-02-25 17:42:51',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.member.getBindSalesperson',
+  'sign' => 'A7F22064F423A2E3A5700663E185BFC2',
+)  
+[2026-02-25 17:42:51] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    'unionid' => '5',
+  ),
+  'timestamp' => '2026-02-25 17:42:51',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.member.getBindSalesperson',
+  'sign' => 'A7F22064F423A2E3A5700663E185BFC2',
+)  
+[2026-02-25 17:42:51] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-25 17:42:51] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  
+[2026-02-25 17:43:23] production.DEBUG: MarketingCenter:input===>array (
+  'data' => 
+  array (
+    'unionid' => '5',
+  ),
+  'timestamp' => '2026-02-25 17:43:23',
+  'app_key' => '05bf20a9e5f90108',
+  'version' => '1.0',
+  'method' => 'basics.member.getBindSalesperson',
+  'sign' => 'EEC13134014F9634F9D3A5266E7AD73A',
+)  
+[2026-02-25 17:43:23] production.DEBUG: MarketingCenter:result===>{"status":"fail","code":40405,"message":"app_key 不正确","data":null}  

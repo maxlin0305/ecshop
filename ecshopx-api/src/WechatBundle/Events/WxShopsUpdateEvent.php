@@ -1,0 +1,26 @@
+<?php
+
+namespace WechatBundle\Events;
+
+use App\Events\Event;
+
+class WxShopsUpdateEvent extends Event
+{
+    public $audit_id;
+
+    public $status;
+
+    public $reason;
+
+    /**
+     * Create a new event instance.
+     *
+     * @return void
+     */
+    public function __construct($receiveData)
+    {
+        $this->audit_id = $receiveData['audit_id'];
+        $this->status = $receiveData['status'];
+        $this->reason = $receiveData['reason'];
+    }
+}
